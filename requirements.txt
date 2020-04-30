@@ -3,4 +3,4 @@ folium
 nbtutor
 tutormagic
 metakernel
-jupyter_nbextensions
+jupyter_contrib_nbextensions
