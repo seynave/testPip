@@ -1,0 +1,6 @@
+matplotlib
+folium
+nbtutor
+tutormagic
+metakernel
+jupyter_contrib_nbextensions
