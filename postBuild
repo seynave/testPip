@@ -1,2 +1,3 @@
+pip install
 jupyter nbextension install --overwrite --py nbtutor
 jupyter nbextension enable nbtutor --py
