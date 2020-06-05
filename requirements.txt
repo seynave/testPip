@@ -4,4 +4,3 @@ nbtutor
 tutormagic
 metakernel
 jupyter_contrib_nbextensions
-pip install nb-mermaid
